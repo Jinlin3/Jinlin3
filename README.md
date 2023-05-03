@@ -1,10 +1,14 @@
 👋 Hey I'm Jack!  
 
-I'm currently an Undergraduate at Rutgers University studying computer science.
+I'm currently an undergraduate at Rutgers University studying computer science.
 ## Languages
-**In order from most comfortable to least comfortable:**
 * Java
 * JavaScript
 * C
 * Python
 * Markup Languages - HTML/CSS
+
+**Contacts**
+
+Email: hellojjlin@gmail.com
+LinkedIn: https://www.linkedin.com/in/jinlin3
