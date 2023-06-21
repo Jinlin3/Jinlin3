@@ -3,10 +3,10 @@
 I'm currently an undergraduate at Rutgers University studying computer science.
 ## Languages
 * Java
-* JavaScript
-* C
+* HTML/CSS
+* JavaScript (React, Node.js)
+* C/C++
 * Python
-* Markup Languages - HTML/CSS
 
 **Contacts**
 
