@@ -2,14 +2,14 @@
 
 I'm currently an undergraduate at Rutgers University studying computer science.
 
-## Languages
+## Languages/Frameworks
+* C/C++
+* Python
+* Java
 * HTML/CSS (Bootstrap)
 * JavaScript
 * TypeScript
 * React / NextJS
-* Java
-* C/C++
-* Python
 
 **Contacts**
 
