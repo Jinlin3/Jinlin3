@@ -2,7 +2,7 @@
 
 I'm currently an undergraduate at Rutgers University studying computer science.
 
-## Languages/Frameworks
+## Languages & Frameworks
 * C/C++
 * Python
 * Java
