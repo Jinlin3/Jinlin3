@@ -3,10 +3,10 @@
 I'm currently an undergraduate at Rutgers University studying computer science.
 
 ## Languages & Frameworks
-* C/C++
-* Python
 * Java
-* HTML/CSS (Bootstrap)
+* Python
+* C
+* HTML/CSS (Tailwind)
 * JavaScript
 * TypeScript
 * React / NextJS
