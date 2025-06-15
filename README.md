@@ -1,18 +1,21 @@
 👋 Hey I'm Jack!  
 
-I'm currently an undergraduate at Rutgers University studying computer science.
+I'm a software engineer currently looking for work!
 
 ## Languages & Frameworks
-* Java
-* Python
-* C
-* HTML/CSS (Tailwind)
+* Java (Spring Boot)
+* Python (Pandas, NumPy, Streamlit)
+* C/C++
+* HTML/CSS
+* Tailwind
 * JavaScript
 * TypeScript
-* React / NextJS
+* React / Next.js
+* Node.js
+* PostgreSQL
+* MySQL
+* MongoDB
 
-**Contacts**
+**Contact**
 
-Email: hellojjlin@gmail.com
-
-LinkedIn: https://www.linkedin.com/in/jinlin3
+Email: jackjlin0802@gmail.com
