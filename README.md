@@ -20,4 +20,5 @@ I'm a software engineer currently looking for work! I specialize in building ful
 **Contact**
 
 Email: jackjlin0802@gmail.com
+
 LinkedIn: https://www.linkedin.com/in/jackjlin0802
